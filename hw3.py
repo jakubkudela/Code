@@ -5,7 +5,7 @@ skeleton = open('/Users/Jakub/skeleton_SamuraiShowdown.txt')
 #declaring lists
 rhythms_list = []
 endings_list = []
-beats_list = []
+beats_list =  []
 
 def iterate_skeleton(skeleton):
     """Function iterate skeleton has one parameter - skeleton text file with
@@ -75,6 +75,10 @@ def main_function():
     return final_str
 
 print main_function()
+
+print 'test'
+
+
 
 
 
