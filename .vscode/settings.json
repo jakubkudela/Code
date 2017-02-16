@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "/Users/Jakub/anaconda/envs/py27/bin/python",
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "*test.py"
+    ],
+    "python.unitTest.unittestEnabled": true
+}
